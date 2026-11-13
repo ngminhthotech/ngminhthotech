@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngminhthotech/ngminhthotech/main/assets/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngminhthotech/ngminhthotech/main/assets/banner-light.svg">
   <img src="assets/banner-light.svg" alt="Nguyen Minh Tho, applied AI engineer" width="100%">
 </picture>
 
