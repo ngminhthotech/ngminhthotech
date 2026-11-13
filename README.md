@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Nguyen Minh Tho, applied AI engineer" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Nguyen Minh Tho, applied AI engineer" width="100%">
+</picture>
 
 ### Hi, I'm Tho 👋
 
@@ -13,6 +15,12 @@ I'm doing a Master's in Information Technology at Nam Can Tho University, where 
 - 🎙️ **Voice AI:** speech-to-text → LLM → text-to-speech assistants
 - 🤖 **AI agents and automation:** scheduled agent routines that collect data, write, voice, render and publish
 - 📍 Can Tho, Vietnam
+
+### Highlights
+
+| 📈 **2×** | 🎙️ **Voice → answer → voice** | 🤖 **Daily, unattended** |
+| :-- | :-- | :-- |
+| Exact clothing-size accuracy, 25.5% → 51.0% on ModCloth, over 10 seeds with significance tests | One API call turns a citizen's spoken question into a spoken answer grounded in ward procedures | LLM agent routines publish a video bulletin every morning across three social channels |
 
 ### AI projects
 
